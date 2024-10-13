@@ -1,0 +1,5 @@
+*.log
+!error.log
+kidney/
+__pycache__/
+*.pyc
